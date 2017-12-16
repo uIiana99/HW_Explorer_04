@@ -14,7 +14,6 @@
 using namespace boost::filesystem;
 using namespace boost::posix_time;
 using namespace boost::program_options;
-using namespace boost;
 using namespace std;
 
 class scheduler_t {
