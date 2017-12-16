@@ -16,7 +16,7 @@
 ## Пример
 Для комбинации **1, 0, 1, 0**
 ```
-$ ./explorer -r f.*.dat 
+$ ./explorer -r f*.dat 
 path:	 /home/user/file.dat
 size:	 2258 Kb
 date:	 10/17/2017 8:43
