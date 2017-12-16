@@ -1,0 +1,30 @@
+
+SESSION OF RECORDING INTO LOG.TXT:	2017-Dec-17 00:11:57
+
+	name:	"f1.dat"
+	size:	0.256
+	date:	Fri Oct 20 22:50:18 2017
+
+	name:	"f2.dat"
+	size:	0.284
+	date:	Thu Nov  9 01:27:46 2017
+
+	name:	"f3.dat"
+	size:	0.271
+	date:	Sat Dec 16 23:59:41 2017
+
+
+SESSION OF RECORDING INTO LOG.TXT:	2017-Dec-17 00:26:18
+
+	name:	"f1.dat"
+	size:	0.256
+	date:	Fri Oct 20 22:50:18 2017
+
+	name:	"f2.dat"
+	size:	0.284
+	date:	Thu Nov  9 01:27:46 2017
+
+	name:	"f3.dat"
+	size:	0.271
+	date:	Sat Dec 16 23:59:41 2017
+
