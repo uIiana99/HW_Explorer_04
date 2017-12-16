@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/SimonRussia/lab14.svg?branch=master)](https://travis-ci.org/SimonRussia/lab14) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE)
 ## Проект Explorer (IV этап)
 
 ### Соответствие порядкового номера и комбинации:
