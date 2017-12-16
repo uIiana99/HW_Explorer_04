@@ -1,0 +1,14 @@
+language: cpp
+
+notifications:
+  email: false
+
+cache:
+  directories:
+  - "$HOME/.hunter"
+  
+script:
+  - cmake -H. -B_build
+  - cmake --build _build
+  - _build/explorer -r "(f.*)+\\.dat"
+  - cat log.txt
